@@ -1,4 +1,4 @@
-path: f:/New folder
+path: f:/Github Repositories/Mosquito-Detection-YoloV8
 train: images/train
 val: images/val
 
