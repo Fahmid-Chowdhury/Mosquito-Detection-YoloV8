@@ -56,17 +56,5 @@ Our role was to:
 
 Feel free to fork this repo and contribute if you'd like to enhance detection, tracking, or deployment capabilities.
 
----
-
-## 📜 License
-
-MIT License © \[Your Name or Organization]
-
-```
-
----
-
-Let me know if you want a Markdown download (`README.md`) or a version customized with your GitHub username or repo name.
-```
 
 
