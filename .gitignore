@@ -1,1 +1,5 @@
-dataset
+/dataset
+/images
+/labels
+/runs/detect/predict
+main.ipynb
