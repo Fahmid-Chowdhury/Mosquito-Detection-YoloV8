@@ -1,1 +1,1 @@
-# Mosquito-Detection-YoloV8-
+# Mosquito-Detection-YoloV8
